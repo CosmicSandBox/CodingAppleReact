@@ -12,6 +12,14 @@ div{
     border-bottom: 1px solid grey;
 }
 
+.modal {
+    margin-top: 20px;
+    padding: 20px;
+    background: #eee;
+    text-align: left;
+};
+    
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

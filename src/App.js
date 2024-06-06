@@ -14,7 +14,7 @@ function App() {
             <div className="black-nav">
 
                 <h4>블로그임</h4>
-åå
+                
                 <button onClick={()=>{
                     const copy = [...글제목];
                     copy[0] = '여자코트 추천';
